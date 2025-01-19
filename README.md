@@ -24,7 +24,7 @@ Open a terminal and navigate to the root directory of the project. Run the follo
 
 ```bash
 python -m venv venv
-
+```
 #2. Activate the Virtual Environment
 
 ```bash
